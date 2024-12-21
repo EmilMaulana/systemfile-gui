@@ -61,7 +61,3 @@ python systemfile.py
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork dari repository ini dan kirim pull request dengan perubahan Anda.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-```
